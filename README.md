@@ -9,6 +9,12 @@
 
 ## Project description
 
+Retail automation uses technology like AI, IoT, and
+robotics to streamline retail operations, reducing manual
+work and improving efficiency. It includes self-checkout
+systems, AI-powered customer support, smart shelves for
+inventory tracking, and cashier-less stores.
+
 
 
 
