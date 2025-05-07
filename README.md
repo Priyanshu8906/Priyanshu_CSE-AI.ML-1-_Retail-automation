@@ -52,8 +52,8 @@ Clean, responsive UI.
 ```
 #### 1. Clone Repository
 bash
-[git 
-cd Sahdev_Sharma_CSE1_Lifeline-Network
+[git clone https://github.com/Priyanshu8906/Priyanshu_CSE-AI.ML-1-_Retail-automation.git
+cd Priyanshu_CSE-AI.ML-1-_Retail-automation
 
 
 #### 2. Install Dependencies
